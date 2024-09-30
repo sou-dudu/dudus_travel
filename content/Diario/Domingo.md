@@ -1,0 +1,17 @@
+El domingo empezo bajando la carretera almirante alexandrinho. Es la calle que rodea el barrio de santa teresa y por donde pasa el ferry que va desde el centro de rio hasta el extremo mas proximo de santa teresa al cristo redentor para tener una referencia.
+
+Una vez saliendo de la favela giramos a la derecha y empezamos a caminar la rua. Hoy para desayunar comimos un pan con huevos mas cafecin por 9 reales (1,5 al cambio). Seguidamente seguimos bajando la carretera hasta llegar a un punto de encuentro en pleno barrio de Santa Teresa. Seguimos descendiendo la carretera hasta llegar a unos de las paradas del ferry. En vez de seguir la ruta del ferry vi que la gente seguia caminando en en una de las paradas. La gente se para en el bosque de las ruinas, es un parquecillo con un edificio en ruinas que estan remodelando. Esta bien para una fotillo.
+
+Despues uno sigue bajando la calle hasta llegar a un barecillo que cuando pase ponian samba. ahi uno tiene dos opciones seguir la carreta que seria direccion gloria o a la izquiera a lapa. Yo gire a la izquierda ya que es el camino para llegar a las escaleras de saleron o como se llamen. 
+
+Despues seguimos bajando la carrete hasta llegar al barrio de gloria y el mercadillo que tiene montado ahi los domingos. Es un mercadillo con dos calles, la primera la mas pegada a la carretera es la que tiene comida y la mas alejada es la que tiene puestecillos de comida y ropa. Pegado al mercadillo habia un espacio con tambien puestecillos de comida.
+
+Despues segui caminando hasta que vi una iglesia en un alto y decidi echar un vistazo. Era la iglesia de gloria donde al acercarse hay un parking con una puerta verde de metal y por ahi se sube. Una vez arriba uno piensa que hay unas vistas guays pero son un poco meh. habia bautizo ese dia.
+
+Continuando con la aventura seguimos caminando hasta llegar a catete ahi hay esta el museo da republica. Un casa de epoca creada por un esclavista, el cual decoro su casa muy bonita (recomendable ir). El museo forma parte de un recinto que tiene jardin donde las familias pasaban ahi el domingo y ese mismo recinto albergaba una exposicion de arte plastico muy bonito.
+
+Caminando y camiando (siguiendo las señalas que nos deja la cuidad de rio) uno ve que no hay nada y me meti en una de las calles hasta llegar a un super donde ofrecian comida y ahi comi. Despues segui direccion a la playa de flamengo donde la gente estaba pasando el domingo y decidi seguir el paseo maritimo. Despues de una media hora llegue a la playa de botafogo que estaba vacia y sin mucha vida por ahi
+
+En esa misma playa ahi al lado hay un centro comercial que en la octava planta tiene un mirador sobre el pao de azucar muy bonita. Pero cuando llegue habia mucha fila asi que decidir caminar un poco mas y explorar la zona y vi una igleasia que se llamo la basilica de imaculada concepcion. Ande un poco mas pero tampoco vi mucha cosa mas. Asi que de vuelta a la "comunidade". Para ello pues pedi un Uber moto. Muy recomendable hacerlo de moto pidiendolo desde la zona de botafogo porque recorremos la otra parte de la rua almirante alexandrinho. Con las curvas de la subida para llegar a santa teresa y la luz del atardecer iluminando el cerro donde esta el cristo redentor quedan memorias muy chulas. Recomendable siempre hacerlo de dia. Yo pille el uber moto sobre las 5:45, todavia se veia bien.
+
+Y aqui concluyo el dia
