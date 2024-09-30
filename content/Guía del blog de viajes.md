@@ -1,5 +1,5 @@
 ---
-title:
+title: Guia del blog de viajes
 ---
 Guia de del diario para comprenderlo mejor.
 
