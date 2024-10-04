@@ -1,5 +1,6 @@
 ---
 title: Guia del blog de viajes
+draft: true
 ---
 Guia de del diario para comprenderlo mejor.
 

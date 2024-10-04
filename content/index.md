@@ -1,5 +1,13 @@
 ---
 title: Blog de viajes
 ---
-[[Viaje a Brasil]]
+## Viajes
 
+```dataview
+LIST
+FROM "content" AND #viaje 
+```
+
+
+
+[[Guía del blog de viajes]]
