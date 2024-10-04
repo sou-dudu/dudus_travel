@@ -5,8 +5,15 @@ title: Blog de viajes
 
 ```dataview
 LIST
-FROM "content" AND #viaje 
+FROM "content" AND #brasil AND -#journal 
 ```
+
+
+
+
+
+
+
 
 
 

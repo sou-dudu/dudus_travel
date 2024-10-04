@@ -12,14 +12,11 @@ El dia 20 de septiembe empece mi viaje de 3 meses por Brasil con la interncion d
 ### Primera etapa
 
 
-```dataview
-LIST
-FROM "content" AND #brasil 
-```
 ### Diarios del viaje a Brasil
 ```dataview
 LIST
-FROM "content" AND #daily AND #brasil 
+FROM "content" AND #brasil AND #journal 
 ```
+
 
 [[content/index|index]]
