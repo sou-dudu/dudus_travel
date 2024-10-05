@@ -1,20 +1,18 @@
 ---
-title: Blog de viajes
+title: Home
+enableToc: "false"
 ---
-## Viajes
 
-```dataview
-LIST
-FROM "content" AND #brasil AND -#journal 
-```
+Hola ahí 👋
+Soy un ingeniero informatico de [Burgos](https://es.wikipedia.org/wiki/Burgos), bienvenido a mi jardin digital.
 
+Puntos principales:
+- [[Proyectos]]
+- Areas
+- Recursos
+- Archivo
+- [[Registro personal]]
 
+---
 
-
-
-
-
-
-
-
-[[Guía del blog de viajes]]
+GitHub: [**sou-dudu**](https://github.com/sou-dudu)
