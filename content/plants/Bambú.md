@@ -1,12 +1,12 @@
 ---
-created: <% tp.file.creation_date() %>
-title: <% tp.file.title %>
+created: 2024-10-06 19:08
+title: Bambú
 tags:
   - plant
 draft: true
 ---
-<% await tp.file.move("/content/plants/" + tp.file.title) %>
-- **Nombre Común:** <% tp.file.cursor() %>
+
+- **Nombre Común:** 
 - **Nombre Científico:** 
 - **Familia:**
 - **Características Físicas:** 

@@ -1,0 +1,1 @@
+Es un prato tipico del nordeste de brasil. Consiste un cocido de pescado generalmente pero tambien hay versiones con mariscos o de pollo. Ha evolucionado con versiones tambien vegetarianas como [[banana-da-terra]], tofu, etc.
