@@ -12,7 +12,3 @@ Puntos principales:
 - Recursos
 - Archivo
 - [[Registro personal]]
-
----
-
-GitHub: [**sou-dudu**](https://github.com/sou-dudu)
