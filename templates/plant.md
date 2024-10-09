@@ -5,7 +5,7 @@ tags:
   - plant
 draft: true
 ---
-<% await tp.file.move("/content/plants/" + tp.file.title) %>
+<% await tp.file.move("/content/resources/plants/" + tp.file.title) %>
 - **Nombre Común:** <% tp.file.cursor() %>
 - **Nombre Científico:** 
 - **Familia:**

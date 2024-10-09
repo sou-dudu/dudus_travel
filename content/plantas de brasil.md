@@ -1,6 +1,6 @@
 Aqui esta mi recolección de notas sobre plantes en mi [[viaje a brasil]]
 
 Plantas
-[[boldo]]
+[[content/resources/plants/boldo]]
 Arboles
-[[bico-de-pato]]
+[[content/resources/plants/bico-de-pato]]

@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     titleImage: "/Attachments/header-img.png",
-    pageTitle: "🥥 Dudu's blog 🥥",
+    pageTitle: "🥥 DUDU'S BRAIN 🥥",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

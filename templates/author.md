@@ -6,4 +6,4 @@ tags:
 draft: true
 ---
 
-<% await tp.file.move("/content/books/" + tp.file.title) %>
+<% await tp.file.move("/content/resources/books/author/" + tp.file.title) %>

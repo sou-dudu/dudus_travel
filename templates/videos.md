@@ -5,7 +5,7 @@ tags:
   - video
 draft: true
 ---
-
+<% await tp.file.move("/content/resources/videos/" + tp.file.title) %>
 <%*
 let url = await tp.system.clipboard();
 let page = await tp.obsidian.request({url});

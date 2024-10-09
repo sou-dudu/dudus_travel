@@ -4,3 +4,6 @@ title: <% tp.file.title %>
 tags: 
 draft: true
 ---
+---
+# Notes
+<% tp.file.cursor() %>
