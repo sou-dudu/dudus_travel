@@ -4,7 +4,11 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [Component.PageTitle(),Component.Darkmode(), Component.Search()],
+  header: [
+    Component.PageTitle(),
+    Component.Spacer(),
+    Component.Darkmode(), 
+    Component.Search()],
   afterBody: [],
   footer: Component.Footer({
     links: {
@@ -20,17 +24,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
   ],
-  left: [
-    // Component.PageTitle(),
-    // Component.MobileOnly(Component.Spacer()),
-    // Component.Search(),
-    // Component.Darkmode(),
-    // Component.DesktopOnly(Component.Explorer()),
-  ],
+  left: [],
   right: [
-    Component.TableOfContents(),
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.TableOfContents(),
     Component.Backlinks(),
   ],
 }
@@ -41,7 +38,6 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    // Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],

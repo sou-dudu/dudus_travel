@@ -1,7 +1,8 @@
 ---
 created: 2024-10-08 17:59
 title: cor ou raça
-tags: 
+tags:
+  - sociology
 draft: true
 ---
 ---

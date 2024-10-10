@@ -8,7 +8,7 @@ draft: false
 
 - **Nombre Común:** banana-da-terra
 - **Nombre Científico:** Musa x paradisiaca
-- **Familia:** [[Musáceas]]
+- **Familia:** [[content/resources/plants/Musáceas]]
 - **Características Físicas:**  Planta herbácea alta, con hojas grandes y alargadas; frutos amarillos cuando están maduros.
 - **Hábitat:** Cultivada en zonas tropicales, generalmente en huertos y cultivos.
 - **Usos:** Alimentación (plátano para cocinar), también se utiliza en postres y platos típicos.
