@@ -2,7 +2,7 @@
 title: registro personal
 tags:
   - changelog
-draft: true
+draft: false
 ---
 
 # TASK TO DO
