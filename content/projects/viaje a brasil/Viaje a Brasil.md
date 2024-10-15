@@ -15,8 +15,13 @@ El dia 20 de septiembe empece mi viaje de 3 meses por Brasil con la interncion d
 ### Diarios del viaje a Brasil
 ```dataview
 LIST
-FROM "content" AND #brasil AND #journal 
+FROM "content/timestamps" AND #brasil 
+LIMIT 10
 ```
+
+
+
+
 
 
 [[content/index|index]]

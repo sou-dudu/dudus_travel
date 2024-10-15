@@ -3,6 +3,7 @@ created: 2024-10-09 10:47
 title: 2024-10-09-Wednesday
 tags:
   - daily
+  - brasil
 draft: true
 ---
 # Wednesday, October 09, 2024
