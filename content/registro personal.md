@@ -25,7 +25,9 @@ Astrosofia
 Leguminosas
 Agricultura Biodinamica
 Calendario Lunar
-[[content/resources/permaculture/Permacultura]]
+Yoga
+Permacultura
+
 ## AUTORES
 Rudofl Steiner
 Bill Mollison
