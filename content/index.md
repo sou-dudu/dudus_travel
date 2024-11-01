@@ -4,11 +4,11 @@ enableToc: "false"
 ---
 
 Hola ahí 👋
-Soy un ingeniero informatico de [Burgos](https://es.wikipedia.org/wiki/Burgos), bienvenido a mi jardin digital.
+Soy un ingeniero informatico de [Burgos](https://es.wikipedia.org/wiki/Burgos), bienvenido a mi jardin digital. Mi jardin digital es 
 
 # Estructura del jardin digital
 - [[content/projects/Proyectos|Proyectos]]
-- Areas
+- [[content/areas/Areas]]
 - Recursos
 - Archivo
 # Guia del proyecto

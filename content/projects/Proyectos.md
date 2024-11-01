@@ -1,5 +1,5 @@
 ---
-draft:
+draft: false
 ---
 
 Aqui estan los proyectos en los que estoy trabajando actualmente

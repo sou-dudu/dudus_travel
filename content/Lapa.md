@@ -1,0 +1,1 @@
+Centrico barrio de [[Rio de Janeiro]] donde estan situadas las famosas escaleras de celarion

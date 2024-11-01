@@ -1,0 +1,1 @@
+Centrico barrio  de [[Rio de Janeiro]]. Hay mercadillo los domingos en este barrio.

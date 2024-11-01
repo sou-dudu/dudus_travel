@@ -1,0 +1,1 @@
+Barrio popular en [[Rio de Janeiro]] . Esta un poco alejado del centro. La playa suele estar bastante llena y hay bastante ambiente. El equipo de futbol con el nombre onómina se creó en este barrio.

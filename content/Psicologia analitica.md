@@ -1,6 +1,6 @@
 # Que es la psicologia analitica
 
-Psicologia, desarrollada por [[content/resources/books/author/Carl Jung]], centrada en la exploracion del insconciente y la compresion de los arquetipos, los simbolos y los procesos de individualizacion. Carl Jung es
+Psicologia, desarrollada por [[Carl Jung]], centrada en la exploracion del insconciente y la compresion de los arquetipos, los simbolos y los procesos de individualizacion. Carl Jung es
 
 # Principales conceptos
 

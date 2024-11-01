@@ -1,0 +1,1 @@
+Barrio de la capital carioca cerca del centro de la cuidad. Como puntos interesantes a visitar está el [[Museo da Republica]]. Al lado del museo hay un jardin donde uno puedo descansar, es bastante seguro.
