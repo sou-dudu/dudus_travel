@@ -1,8 +1,15 @@
-### Areas de interes
-``` dataview
-LIST
-FROM "content"
-```
+---
+title: Areas
+draft:
+---
+[[salud]]
+[[machine learning]]
+[[escritura]]
+
+
+
+
+
 
 
 
