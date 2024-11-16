@@ -4,7 +4,7 @@ title: 2024-10-09-Wednesday
 tags:
   - daily
   - brasil
-draft: true
+draft: "true"
 ---
 # Wednesday, October 09, 2024
 

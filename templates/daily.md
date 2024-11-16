@@ -3,7 +3,7 @@ created: <% tp.file.creation_date() %>
 title: <% tp.file.title %>
 tags:
   - daily
-draft: true
+draft: "true"
 ---
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
 
